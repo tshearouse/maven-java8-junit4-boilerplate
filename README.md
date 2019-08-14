@@ -1,0 +1,1 @@
+# maven-java8-junit4-boilerplate
